@@ -1,0 +1,48 @@
+{
+  "name": "Daniel Andrade",
+  "desiredPosition": "Back-End Developer",
+  "contactInfo": {
+    "email": "contact@example.com",
+    "phone": "(123) 123-1234",
+    "website": "https://example.com/"
+  },
+  "skills": {
+    "programmingLanguages": "Python, Javascript, Go, SQL",
+    "webDevelopment": "Django, Django Rest Framework, Flask, VueJS",
+    "tools": "Linux, Git, GitHub, Docker, Docker Compose",
+    "languages": "Portuguese (Native), English (Level B2)"
+  },
+  "experience": [
+    {
+      "title": "Back-End Developer",
+      "company": "Example Company",
+      "timeSpan": "November 2019 – December 2020",
+      "highlights": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu, rutrum finibus velit.",
+        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut venenatis sapien posuere eget. Suspendisse sed.",
+        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar. Suspendisse consequat tempus nunc, sed rutrum.",
+        "Proin tristique diam lorem. Curabitur tincidunt quam at egestas finibus. Maecenas ornare vel eros eu pharetra. Proin vitae.",
+        "Aenean in nulla interdum, maximus lectus sed, elementum odio. Proin non feugiat neque, in pharetra tortor. Sed lorem."
+      ]
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "Example Company",
+      "timeSpan": "September 2018 – March 2019",
+      "highlights": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu, rutrum finibus velit.",
+        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut venenatis sapien posuere eget. Suspendisse sed.",
+        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar. Suspendisse consequat tempus nunc, sed rutrum.",
+        "Proin tristique diam lorem. Curabitur tincidunt quam at egestas finibus. Maecenas ornare vel eros eu pharetra. Proin vitae.",
+        "Aenean in nulla interdum, maximus lectus sed, elementum odio. Proin non feugiat neque, in pharetra tortor. Sed lorem."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "System Analysis and Development",
+      "institution": "Saint Doe University",
+      "timeSpan": "March 2018 – February 2020"
+    }
+  ]
+}
