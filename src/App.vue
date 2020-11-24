@@ -58,4 +58,8 @@ i {
 .accent-color {
   color: #5f1609;
 }
+
+.resume-section {
+  margin-bottom: 28px;
+}
 </style>
