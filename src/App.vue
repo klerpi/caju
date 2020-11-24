@@ -29,4 +29,13 @@ export default {
 <style lang="scss">
 @import "~minireset.css/minireset.css";
 @import "~paper-css/paper.min.css";
+
+@page {
+  size: A4;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+  font-size: 16px;
+}
 </style>
