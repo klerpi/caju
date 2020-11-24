@@ -5,6 +5,7 @@
     :desiredPosition="myData.desiredPosition",
     :contactInfo="myData.contactInfo"
   )
+  Skills
 </template>
 
 <script>
@@ -12,11 +13,13 @@
 import json from "../data/data.example.json";
 
 import Header from "./components/Header";
+import Skills from "./components/Skills";
 
 export default {
   name: "App",
   components: {
     Header,
+    Skills,
   },
   data() {
     return {
