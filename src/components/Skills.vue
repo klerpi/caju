@@ -1,5 +1,5 @@
 <template lang="pug">
-section.skills
+.resume-section
   h2(v-if="lang === 'br'") Habilidades
   h2(v-else) Skills
 </template>
