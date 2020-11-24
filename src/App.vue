@@ -49,6 +49,12 @@ h2 {
   margin-bottom: 14px;
 }
 
+h3 {
+  font-size: 23px;
+  margin-bottom: 2px;
+  font-weight: 500;
+}
+
 i {
   margin-right: 10px;
 }

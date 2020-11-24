@@ -12,7 +12,7 @@
         p {{ skills.programmingLanguages }}
 
     .skill-item
-      i.material-icons.accent-color code
+      i.material-icons.accent-color computer
       .skill-item-info
         h3(v-if="lang === 'br'") Desenvolvimento Web
         h3(v-else) Web Development
@@ -40,4 +40,22 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+h3 {
+  font-size: 18px;
+}
+
+i {
+  margin-right: 15px;
+  font-size: 30px;
+}
+
+.skill-items {
+  display: grid;
+  gap: 15px 20px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.skill-item {
+  display: flex;
+}
 </style>
