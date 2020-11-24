@@ -5,7 +5,7 @@
     :desiredPosition="myData.desiredPosition",
     :contactInfo="myData.contactInfo"
   )
-  Skills(:skills="myData.skills")
+  Skills(:skills="myData.skills", :lang="lang")
 </template>
 
 <script>
@@ -23,6 +23,7 @@ export default {
   },
   data() {
     return {
+      lang: "en",
       myData: json,
     };
   },

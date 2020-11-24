@@ -1,9 +1,12 @@
 <template lang="pug">
+section.skills
+  h2(v-if="lang === 'br'") Habilidades
+  h2(v-else) Skills
 </template>
 
 <script>
 export default {
-  props: ["skills"],
+  props: ["lang", "skills"],
 };
 </script>
 
