@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore all personal data except the example file
+data/*
+!data/data.example.json
