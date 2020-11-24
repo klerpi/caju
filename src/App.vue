@@ -39,6 +39,18 @@ body {
   font-size: 16px;
 }
 
+i {
+  margin-right: 10px;
+}
+
+.icon-with-text {
+  display: inline-flex;
+  font-size: 14px;
+  align-items: center;
+  margin-right: 14px;
+  font-weight: 500;
+}
+
 .accent-color {
   color: #5f1609;
 }
