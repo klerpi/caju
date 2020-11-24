@@ -1,6 +1,10 @@
 <template lang="pug">
 #app
-  Header
+  Header(
+    :name="myData.name",
+    :desiredPosition="myData.desiredPosition",
+    :contactInfo="myData.contactInfo"
+  )
 </template>
 
 <script>
