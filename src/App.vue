@@ -1,7 +1,6 @@
-<template>
-  <div id="app">
-    <h1>Hello, world!</h1>
-  </div>
+<template lang="pug">
+#app
+  h1 Hello, world!
 </template>
 
 <script>
