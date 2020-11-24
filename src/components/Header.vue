@@ -1,5 +1,5 @@
 <template lang="pug">
-section.header
+.resume-section
   h1 {{ name }}
   p.accent-color {{ desiredPosition }}
   .contact-info

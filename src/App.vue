@@ -5,6 +5,7 @@
     :desiredPosition="myData.desiredPosition",
     :contactInfo="myData.contactInfo"
   )
+  Skills(:skills="myData.skills", :lang="lang")
 </template>
 
 <script>
@@ -12,14 +13,17 @@
 import json from "../data/data.example.json";
 
 import Header from "./components/Header";
+import Skills from "./components/Skills";
 
 export default {
   name: "App",
   components: {
     Header,
+    Skills,
   },
   data() {
     return {
+      lang: "en",
       myData: json,
     };
   },
@@ -39,6 +43,18 @@ body {
   font-size: 16px;
 }
 
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  margin-bottom: 2px;
+  font-weight: 500;
+}
+
 i {
   margin-right: 10px;
 }
@@ -53,5 +69,9 @@ i {
 
 .accent-color {
   color: #5f1609;
+}
+
+.resume-section {
+  margin-bottom: 28px;
 }
 </style>
