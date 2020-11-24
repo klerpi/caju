@@ -43,6 +43,12 @@ body {
   font-size: 16px;
 }
 
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 14px;
+}
+
 i {
   margin-right: 10px;
 }
