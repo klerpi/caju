@@ -1,15 +1,19 @@
 <template lang="pug">
 #app
-  h1 Hello, {{ myData.name }}.
+  Header
 </template>
 
 <script>
 // Import your data here (remove the "example")
 import json from "../data/data.example.json";
 
+import Header from "./components/Header";
+
 export default {
   name: "App",
-  components: {},
+  components: {
+    Header,
+  },
   data() {
     return {
       myData: json,
