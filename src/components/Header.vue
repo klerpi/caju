@@ -1,5 +1,5 @@
 <template lang="pug">
-.header
+section.header
   h1 Hello.
 </template>
 
