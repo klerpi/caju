@@ -3,7 +3,7 @@
   h2(v-if="lang === 'br'") Habilidades
   h2(v-else) Skills
 
-  .skill-itens
+  .skill-items
     .skill-item
       i.material-icons.accent-color settings
       .skill-item-info
