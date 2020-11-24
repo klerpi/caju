@@ -5,7 +5,7 @@
     :desiredPosition="myData.desiredPosition",
     :contactInfo="myData.contactInfo"
   )
-  Skills
+  Skills(:skills="myData.skills")
 </template>
 
 <script>

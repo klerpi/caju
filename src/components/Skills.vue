@@ -2,7 +2,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+  props: ["skills"],
+};
 </script>
 
 <style lang="scss" scoped>
