@@ -38,4 +38,8 @@ body {
   font-family: "Mulish", sans-serif;
   font-size: 16px;
 }
+
+.accent-color {
+  color: #5f1609;
+}
 </style>
