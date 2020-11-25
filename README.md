@@ -6,4 +6,4 @@ While it may be my resume, you can easily change it to fit your needs.
 
 ## Project Setup
 
-You need to make sure you have NodeJS and NPM in your computer. Then, simply run `npm install` inside the project root to install the depedencies.
+You need to make sure you have NodeJS and NPM in your computer. Then, simply run `npm install` inside the project root to install the dependencies.
