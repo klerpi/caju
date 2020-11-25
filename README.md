@@ -1,24 +1,3 @@
-# resume
+# Personal Resume
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This a Vue project I made so I could easily write my resume using web technologies. A web page allows me to get better font rendering, a finer control of the design and a better separation of concerns.
