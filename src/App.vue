@@ -6,7 +6,7 @@
     :contactInfo="myData.contactInfo"
   )
   Skills(:skills="myData.skills", :lang="lang")
-  Experience
+  Experience(:experiences="myData.experience", :lang="lang")
 </template>
 
 <script>
