@@ -9,7 +9,7 @@
       key="exp-{{index}}"
     )
       h3 {{ experience.title }}
-      h4 {{ experience.company }}
+      h4.accent-color {{ experience.company }}
       span.icon-with-text
         i.material-icons.accent-color calendar_today
         span {{ experience.timeSpan }}
@@ -27,4 +27,15 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+i {
+  font-size: 20px;
+}
+
+.experience-item {
+  margin-bottom: 14px;
+}
+
+.experience-highlights {
+  margin-top: 6px;
+}
 </style>
