@@ -44,3 +44,7 @@ Instead of using plain HTML and CSS, I've used the Pug and SCSS since it's more 
 ## Contributing
 
 Pull requests for small fixes are welcome. For major changes, feel free to fork it and personalize the project to fit your needs.
+
+## License
+
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
