@@ -7,6 +7,7 @@
   )
   Skills(:skills="myData.skills", :lang="lang")
   Experience(:experiences="myData.experience", :lang="lang")
+  Education
 </template>
 
 <script>
@@ -16,6 +17,7 @@ import json from "../data/data.example.json";
 import Header from "./components/Header";
 import Skills from "./components/Skills";
 import Experience from "./components/Experience";
+import Education from "./components/Education";
 
 export default {
   name: "App",
@@ -23,6 +25,7 @@ export default {
     Header,
     Skills,
     Experience,
+    Education,
   },
   data() {
     return {
