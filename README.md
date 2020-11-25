@@ -22,3 +22,15 @@ import json from "../data/data.example.json";
 Once you're done, simply run `npm run serve` to serve the project on localhost.
 
 Use Firefox's print to file function to save it as a PDF.
+
+## Language Support
+
+Since I intend to apply both for Brazillian and international companies, the project has English and Portuguese support.
+
+### Changing from English to Portuguese
+
+Inside `src/App.vue`, change `lang: "en"` to `lang: "pt`.
+
+I also keep two diferent json data files: `data.en.json` for English and `data.pt.json` for Portuguese.
+
+See the usage section to learn how to import different data files.
