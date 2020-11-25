@@ -33,6 +33,6 @@ i {
 p {
   font-weight: bold;
   font-size: 22px;
-  margin-bottom: 14px;
+  margin-bottom: 8px;
 }
 </style>
