@@ -7,7 +7,7 @@
   )
   Skills(:skills="myData.skills", :lang="lang")
   Experience(:experiences="myData.experience", :lang="lang")
-  Education(:education="myData.experience", :lang="lang")
+  Education(:education="myData.education", :lang="lang")
 </template>
 
 <script>
