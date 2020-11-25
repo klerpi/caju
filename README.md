@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="readme-assets/preview.pdf">
-    <img src="readme-assets/preview.png" alt="Resume Preview">
+    <img src="readme-assets/preview.jpg" alt="Resume Preview">
   </a>
 </p>
 
