@@ -7,3 +7,18 @@ While it may be my resume, you can easily change it to fit your needs.
 ## Project Setup
 
 You need to make sure you have NodeJS and NPM in your computer. Then, simply run `npm install` inside the project root to install the dependencies.
+
+## Usage
+
+The data is separated of the rest of the project. In `data/data.example.json` you'll find placeholder data meant to be changed and filled with your personal data.
+
+Create a new `.json` file inside the data folder, provide your information, and change the import inside `src/App.vue` to point to your new file.
+
+```js
+// Change this to point to your new file
+import json from "../data/data.example.json";
+```
+
+Once you're done, simply run `npm run serve` to serve the project on localhost.
+
+Use Firefox's print to file function to save it as a PDF.
