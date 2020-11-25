@@ -34,3 +34,9 @@ Inside `src/App.vue`, change `lang: "en"` to `lang: "pt`.
 I also keep two diferent json data files: `data.en.json` for English and `data.pt.json` for Portuguese.
 
 See the usage section to learn how to import different data files.
+
+## Personalization
+
+The project is divided in different files that can be easily edited to fit your needs. Go to the section's respective component (inside `src/components/`) and change them.
+
+Instead of using plain HTML and CSS, I've used the Pug and SCSS since it's more succinct. If you don't know Pug or SCSS, they are really easy to learn if you know HTML and CSS. Check [this website for Pug](https://pugjs.org/api/getting-started.html) and [this website for SCSS](https://sass-lang.com/guide).
