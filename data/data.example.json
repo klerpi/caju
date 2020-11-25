@@ -18,11 +18,11 @@
       "company": "Example Company",
       "timeSpan": "November 2019 – December 2020",
       "highlights": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu, rutrum finibus velit.",
-        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut venenatis sapien posuere eget. Suspendisse sed.",
-        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar. Suspendisse consequat tempus nunc, sed rutrum.",
-        "Proin tristique diam lorem. Curabitur tincidunt quam at egestas finibus. Maecenas ornare vel eros eu pharetra. Proin vitae.",
-        "Aenean in nulla interdum, maximus lectus sed, elementum odio. Proin non feugiat neque, in pharetra tortor. Sed lorem."
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu.",
+        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut sapien.",
+        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar.",
+        "Proin tristique diam lorem. Curabitur tincidunt quam at egestas finibus. Maecenas ornare.",
+        "Aenean in nulla interdum, maximus lectus sed, elementum odio. Proin non feugiat neque."
       ]
     },
     {
@@ -30,11 +30,11 @@
       "company": "Example Company",
       "timeSpan": "September 2018 – March 2019",
       "highlights": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu, rutrum finibus velit.",
-        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut venenatis sapien posuere eget. Suspendisse sed.",
-        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar. Suspendisse consequat tempus nunc, sed rutrum.",
-        "Proin tristique diam lorem. Curabitur tincidunt quam at egestas finibus. Maecenas ornare vel eros eu pharetra. Proin vitae.",
-        "Aenean in nulla interdum, maximus lectus sed, elementum odio. Proin non feugiat neque, in pharetra tortor. Sed lorem."
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu.",
+        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut sapien.",
+        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar.",
+        "Proin tristique diam lorem. Curabitur tincidunt quam at egestas finibus. Maecenas ornare.",
+        "Aenean in nulla interdum, maximus lectus sed, elementum odio. Proin non feugiat neque."
       ]
     }
   ],
