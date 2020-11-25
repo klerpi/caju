@@ -18,5 +18,12 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+i {
+  font-size: 20px;
+}
+
+.education-item {
+  margin-bottom: 14px;
+}
 </style>
