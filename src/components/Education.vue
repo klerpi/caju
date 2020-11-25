@@ -2,7 +2,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+  props: ["education", "lang"],
+};
 </script>
 
 <style lang="scss">
