@@ -35,7 +35,7 @@ Since I intend to apply both for Brazillian and international companies, the pro
 
 ### Changing from English to Portuguese
 
-Inside `src/App.vue`, change `lang: "en"` to `lang: "pt`.
+Inside `src/App.vue`, change `lang: "en"` to `lang: "pt"`.
 
 I also keep two diferent json data files: `data.en.json` for English and `data.pt.json` for Portuguese.
 
