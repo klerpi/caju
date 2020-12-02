@@ -33,7 +33,7 @@ Use Firefox's print to file function to save it as a PDF.
 
 Since I intend to apply both for Brazillian and international companies, the project has English and Portuguese support.
 
-### Changing from English to Portuguese
+### Switching from English to Portuguese
 
 Inside `src/App.vue`, change `lang: "en"` to `lang: "pt"`.
 
