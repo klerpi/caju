@@ -7,10 +7,10 @@
     "website": "example.com"
   },
   "skills": {
-    "programmingLanguages": "Python, Javascript, Go, SQL",
-    "webDevelopment": "Django, Django Rest Framework, Flask, VueJS",
-    "tools": "Linux, Git, GitHub, Docker, Docker Compose",
-    "languages": "Portuguese (Native), English (Level B2)"
+    "programmingLanguages": "Python, Javascript, SQL",
+    "webDevelopment": "Node, Express, Django, Flask, VueJS",
+    "tools": "Linux, Git, Docker, NGINX, PostgreSQL",
+    "languages": "Portuguese, English"
   },
   "experience": [
     {
