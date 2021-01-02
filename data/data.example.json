@@ -7,7 +7,7 @@
     "website": "example.com"
   },
   "skills": {
-    "programmingLanguages": "Python, Javascript, SQL",
+    "programmingLanguages": "Javascript, Python, SQL",
     "webDevelopment": "Node, Express, Django, Flask, VueJS",
     "tools": "Linux, Git, Docker, NGINX, PostgreSQL",
     "languages": "Portuguese, English"
