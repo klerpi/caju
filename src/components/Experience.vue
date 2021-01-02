@@ -28,7 +28,11 @@ export default {
 
 <style lang="scss" scoped>
 i {
-  font-size: 20px;
+  font-size: 16px;
+}
+
+span {
+  font-size: 12px;
 }
 
 .experience-item {
