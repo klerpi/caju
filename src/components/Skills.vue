@@ -41,12 +41,12 @@ export default {
 
 <style lang="scss" scoped>
 h3 {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 i {
   margin-right: 15px;
-  font-size: 30px;
+  font-size: 24px;
 }
 
 .skill-items {
