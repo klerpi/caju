@@ -12,10 +12,10 @@
         p {{ skills.programmingLanguages }}
 
     .skill-item
-      i.material-icons.accent-color computer
+      i.material-icons.accent-color dns
       .skill-item-info
-        h3(v-if="lang === 'br'") Desenvolvimento Web
-        h3(v-else) Web Development
+        h3(v-if="lang === 'br'") Desenvolvimento Back-End
+        h3(v-else) Back-End Development
         p {{ skills.webDevelopment }}
 
     .skill-item
