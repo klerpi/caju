@@ -51,7 +51,7 @@ i {
 
 .skill-items {
   display: grid;
-  gap: 15px 20px;
+  gap: 10px 15px;
   grid-template-columns: 1fr 1fr;
 }
 
