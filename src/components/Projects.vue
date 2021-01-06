@@ -6,7 +6,7 @@
   .project-items
     .item(v-for="(project, index) in projects", key="exp-{{index}}")
       h3 {{ project.title }}
-      h4.accent-color {{ project.company }}
+      h4.accent-color {{ project.technologies }}
       ul.project-highlights
         li(
           v-for="(highlight, index) in project.highlights",

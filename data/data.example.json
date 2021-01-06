@@ -47,8 +47,8 @@
   ],
   "projects": [
     {
-      "title": "Back-End Developer",
-      "company": "C++, Rust, QML",
+      "title": "Cool Project Name",
+      "technologies": "C++, Rust, QML",
       "highlights": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu.",
         "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut sapien.",
