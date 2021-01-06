@@ -4,10 +4,7 @@
   h2(v-else) Experience
 
   .experience-items
-    .experience-item(
-      v-for="(experience, index) in experiences",
-      key="exp-{{index}}"
-    )
+    .item(v-for="(experience, index) in experiences", key="exp-{{index}}")
       h3 {{ experience.title }}
       h4.accent-color {{ experience.company }}
       span.icon-with-text
@@ -28,11 +25,7 @@ export default {
 
 <style lang="scss" scoped>
 i {
-  font-size: 20px;
-}
-
-.experience-item {
-  margin-bottom: 14px;
+  font-size: 16px;
 }
 
 .experience-highlights {

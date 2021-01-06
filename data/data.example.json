@@ -7,10 +7,10 @@
     "website": "example.com"
   },
   "skills": {
-    "programmingLanguages": "Python, Javascript, Go, SQL",
-    "webDevelopment": "Django, Django Rest Framework, Flask, VueJS",
-    "tools": "Linux, Git, GitHub, Docker, Docker Compose",
-    "languages": "Portuguese (Native), English (Level B2)"
+    "programmingLanguages": "Javascript, Python, SQL",
+    "webDevelopment": "Node, Express, Django, Flask",
+    "tools": "Linux, Git, Docker, NGINX, PostgreSQL",
+    "languages": "Portuguese, English"
   },
   "experience": [
     {
@@ -43,6 +43,17 @@
       "title": "System Analysis and Development",
       "institution": "Saint Doe University",
       "timeSpan": "Mar 2018 – Feb 2020"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cool Project Name",
+      "technologies": "C++, Rust, QML",
+      "highlights": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu.",
+        "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut sapien.",
+        "Quisque posuere aliquam aliquet. Nulla facilisi. Sed blandit a nunc et pulvinar."
+      ]
     }
   ]
 }

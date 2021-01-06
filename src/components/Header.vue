@@ -21,18 +21,17 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-h1 {
-  font-size: 42px;
-  font-weight: 800;
+span {
+  font-size: 13px;
 }
 
 i {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 p {
   font-weight: bold;
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 8px;
 }
 </style>

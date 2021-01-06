@@ -12,10 +12,10 @@
         p {{ skills.programmingLanguages }}
 
     .skill-item
-      i.material-icons.accent-color computer
+      i.material-icons.accent-color dns
       .skill-item-info
-        h3(v-if="lang === 'br'") Desenvolvimento Web
-        h3(v-else) Web Development
+        h3(v-if="lang === 'br'") Desenvolvimento Back-End
+        h3(v-else) Back-End Development
         p {{ skills.webDevelopment }}
 
     .skill-item
@@ -41,17 +41,17 @@ export default {
 
 <style lang="scss" scoped>
 h3 {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 i {
   margin-right: 15px;
-  font-size: 30px;
+  font-size: 24px;
 }
 
 .skill-items {
   display: grid;
-  gap: 15px 20px;
+  gap: 10px 15px;
   grid-template-columns: 1fr 1fr;
 }
 

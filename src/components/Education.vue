@@ -4,7 +4,7 @@
   h2(v-else) Education
 
   .education-items
-    .education-item(v-for="(edItem, index) in education", key="ed-{{index}}")
+    .item(v-for="(edItem, index) in education", key="ed-{{index}}")
       h3 {{ edItem.title }}
       h4.accent-color {{ edItem.institution }}
       span.icon-with-text
@@ -20,10 +20,6 @@ export default {
 
 <style lang="scss" scoped>
 i {
-  font-size: 20px;
-}
-
-.education-item {
-  margin-bottom: 14px;
+  font-size: 16px;
 }
 </style>
