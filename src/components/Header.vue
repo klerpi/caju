@@ -21,11 +21,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-h1 {
-  font-size: 30px;
-  font-weight: 800;
-}
-
 span {
   font-size: 13px;
 }
