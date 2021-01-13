@@ -1,7 +1,7 @@
 <template lang="pug">
 .resume-section
-  h2(v-if="lang === 'br'") Projetos
-  h2(v-else) Projects
+  h2(v-if="lang === 'br'") Projetos Pessoais
+  h2(v-else) Personal Projects
 
   .project-items
     .item(v-for="(project, index) in projects", key="exp-{{index}}")
