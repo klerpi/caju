@@ -49,6 +49,7 @@
     {
       "title": "Cool Project Name",
       "technologies": "C++, Rust, QML",
+      "url": "github.com/example/project",
       "highlights": [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ante est, tristique et turpis eu.",
         "Fusce non hendrerit quam, sed maximus turpis. Vivamus egestas lectus magna, ut sapien.",
