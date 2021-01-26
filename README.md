@@ -4,6 +4,10 @@ This is a Vue project I made so I could easily write my resume using web technol
 
 While it may be my resume, you can easily change it to fit your needs.
 
+# Preview
+
+Click the image for better quality.
+
 <p align="center">
   <a href="readme-assets/preview.pdf">
     <img src="readme-assets/preview.png" alt="Resume Preview">
