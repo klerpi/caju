@@ -6,7 +6,7 @@ While it may be my resume, you can easily change it to fit your needs.
 
 <p align="center">
   <a href="readme-assets/preview.pdf">
-    <img src="readme-assets/preview.png" alt="Resume Preview" width="70%" height="70%">
+    <img src="readme-assets/preview.png" alt="Resume Preview">
   </a>
 </p>
 
